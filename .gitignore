@@ -1,0 +1,18 @@
+# Maven target folder
+target/
+dependency-reduced-pom.xml
+
+
+src/test/
+
+# IDE metadata
+*.iml
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# OS junk
+.DS_Store
+Thumbs.db
